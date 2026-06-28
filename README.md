@@ -9,6 +9,4 @@ Discord server made by Pro, server rewrite made by me but open sourcing it due t
 # I AINT HELPING YOU FIGURE IT OUT YOURSELF
 
 ## Discord credit?
-@CreativeLogan
-idk who tf else
 
