@@ -98,6 +98,12 @@ namespace FemRec2023.Controllers
         {
             return Ok(ServerConfig.Bracket);
         }
+
+		[HttpGet("api/avatar/v1/realitems")]
+        public IActionResult GetRealItems()
+        {
+            return Ok("[FemRec]");
+        }
         
         [HttpGet("/api/objectives/v1/myprogress")]
         public IActionResult GetMyObjectiveProgress()
